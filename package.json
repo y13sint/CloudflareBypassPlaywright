@@ -1,0 +1,20 @@
+{
+  "name": "cloudflare-bypass",
+  "version": "1.0.0",
+  "description": "Cloudflare bypass with Playwright",
+  "main": "cloudflare-bypass.js",
+  "scripts": {
+    "start": "node cloudflare-bypass.js"
+  },
+  "keywords": [
+    "cloudflare",
+    "bypass",
+    "playwright"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "playwright": "1.25.0"
+  }
+}
