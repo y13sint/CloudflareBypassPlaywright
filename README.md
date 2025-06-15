@@ -13,7 +13,7 @@
 ## Установка
 ```bash
 # 1. Клонируйте репозиторий
-$ https://github.com/y13sint/CloudflareBypassPlaywright
+$ git clone https://github.com/y13sint/CloudflareBypassPlaywright
 $ cd CloudflareBypassPlaywright
 
 # 2. Установите зависимости
