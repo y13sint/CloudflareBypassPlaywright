@@ -6,7 +6,7 @@ const { firefox } = require('playwright');
 const URL = process.env.TARGET_URL || 'https://phyhub.ru';
 
 async function bypassCloudflare(url) {
-  let browser = await firefox.launch({ headless: false });
+  let browser = await firefox.launch({ headless: true });
   
   try {
     let context = await browser.newContext();
