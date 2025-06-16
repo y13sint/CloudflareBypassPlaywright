@@ -13,8 +13,8 @@
 ## Установка
 ```bash
 # 1. Клонируйте репозиторий
-$ git clone https://github.com/y13sint/cloudflare-bypass.git
-$ cd cloudflare-bypass
+$ git clone https://github.com/y13sint/CloudflareBypassPlaywright
+$ cd CloudflareBypassPlaywright
 
 # 2. Установите зависимости
 $ npm install
