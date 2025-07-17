@@ -3,7 +3,7 @@ dotenv.config({ path: '.env' });
 const { firefox } = require('playwright');
 
 
-const TARGET_DEFAULT = process.env.TARGET_URL || 'https://kra34.at';
+const TARGET_DEFAULT = process.env.TARGET_URL || 'https://phyhub.ru';
 
 
 const CF_CHALLENGE_CLICK = '213,293' || '640,480';
